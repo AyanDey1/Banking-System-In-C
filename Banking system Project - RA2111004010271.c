@@ -78,7 +78,7 @@ void account(void)
 	scanf("%s", &u1.fathname);
 	printf("Enter Mother's Name = ");
 	scanf("%s", &u1.mothname);
-	printf("Enter E Address = ");
+	printf("Enter Address = ");
 	scanf("%s", &u1.address);
 	printf("Enter Date Of Birth (in numbers only) -\n");
 	printf("Date = ");
